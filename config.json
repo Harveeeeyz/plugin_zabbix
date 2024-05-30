@@ -1,0 +1,5 @@
+{
+    "zabbix_url": "http://192.168.9.217/zabbix/api_jsonrpc.php",
+    "zabbix_api_token": "5253490acaf782fdb2d728e7404623db3af875b52ad58816a22307e529f97239"
+}
+
